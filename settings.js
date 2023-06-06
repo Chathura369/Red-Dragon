@@ -15,11 +15,11 @@ global.alivemsg = `📤I am alive now😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['94742514900'] // owner number
-global.ownername = "😎𝙆.✿Ƈʜᴀᴛʜᴜ ツ❯❯" // owner name
+global.ownername = "✿Ƈʜᴀᴛʜᴜ ツ❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: chathura369" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -50,10 +50,10 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 global.owner = ['94742514900']
 global.ownertag = '94742514900' //your tag number
 global.botname = '✿Ƈʜᴀᴛʜᴜ ツ - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot ✿Ƈʜᴀᴛʜᴜ ツ" // sticker packname
+global.packname = "✿Ƈʜᴀᴛʜᴜ ツ" // sticker packname
 global.author = "✿Ƈʜᴀᴛʜᴜ ツ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ✿Ƈʜᴀᴛʜᴜ ツ ]' //
 
 //database
 global.premium = ['94742514900'] //ur premium numbers
